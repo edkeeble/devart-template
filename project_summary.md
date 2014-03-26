@@ -1,7 +1,6 @@
 # Missed Connections
 
-## Authors
-Edward Keeble, https://github.com/edkeeble
+## Edward Keeble, https://github.com/edkeeble
 
 ## Description
 You are who you know or, at least, who we think you know. Missed Connections is a piece about shared spaces and shared networks. It allows participants to enter a physical space and, without any active engagement on their part, see who they may be connected to through common wireless networks. It provides them a glimpse of how they may appear to advertisers and others for whom social associations are a relevant data point.
