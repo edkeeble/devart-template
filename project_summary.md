@@ -1,15 +1,15 @@
 # Project Title
-Insert the name of your project
+Missed Connections
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+Edward Keeble, edkeeble
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+You are who you know or, at least, who we think you know. Missed Connections is a piece about shared spaces and shared networks. It allows participants to enter a physical space and, without any active engagement on their part, see who they may be connected to through common wireless networks. It provides them a glimpse of how they may appear to advertisers and others for whom social associations are a relevant data point.
+
+The piece analyses the wireless packets broadcast by most smartphones to detect known WiFi networks to associate those networks with individual participants. It then continuously probes the smartphones to determine their location within the installation space and visualize the connections between participants.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
 
 [Example Link](http://www.google.com "Example Link")
 
@@ -29,5 +29,3 @@ function test() {
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
