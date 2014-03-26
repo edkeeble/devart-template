@@ -1,5 +1,4 @@
-# Project Title
-Missed Connections
+# Missed Connections
 
 ## Authors
 Edward Keeble, https://github.com/edkeeble
